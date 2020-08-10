@@ -1368,11 +1368,11 @@ main {
 }
 
 .icon.twitter::before {
-  background-image: url(../images/twitter.svg);
+  background-image: url(https://kgm1208.github.io/images/twitter.svg);
 }
 
 .icon.fb::before {
-  background-image: url(../images/facebook.svg);
+  background-image: url(https://kgm1208.github.io/images/facebook.svg);
 }
 
 @media (min-width: 480px) {
